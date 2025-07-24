@@ -7,7 +7,8 @@ awa
 - Minecraft Datapacks ⛏️
 
 🚀 **Favorite Project:**  
-[openCut-app/OpenCut](https://github.com/openCut-app/OpenCut)
+- [openCut-app/OpenCut](https://github.com/openCut-app/OpenCut) - open source video making software! ~~f capcut~~
+- [RedstoneOre/MinecraftEditor](https://github.com/RedstoneOre/MinecraftEditor) - my cursed editor (game) ~
 
 🌐 **Let's Connect:**  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/RedstoneOre)
