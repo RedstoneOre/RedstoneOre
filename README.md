@@ -15,4 +15,4 @@ awa
 
 ---
 
-Don't beat me, or just don't slain me~
+O.o
